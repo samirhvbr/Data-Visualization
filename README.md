@@ -28,7 +28,7 @@ Data-Visualization/
 
 # 🌍 1. Global Temperature Analysis
 
-The global temperature projects explore historical temperature data from different geographical locations.
+**The global temperature projects explore historical temperature data from different geographical locations.**
 
 Datasets
 GlobalTemperatures.csv
