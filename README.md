@@ -211,6 +211,7 @@ I am a Computer Science graduate with an interest in Artificial Intelligence, Ma
 </div>
 
 ---
+## 🤝 Contributing
 ## 📜 License
 
 A license has not been specified for this project.
