@@ -47,7 +47,7 @@ Exploration of changes in global temperatures
 ---
 # ❤️ 2. Healthcare Data Analysis
 
-The healthcare project focuses on exploring healthcare-related data and extracting useful information through data analysis and visualization.
+**The healthcare project focuses on exploring healthcare-related data and extracting useful information through data analysis and visualization.**
 
 Dataset
 healthcare-2016.csv
