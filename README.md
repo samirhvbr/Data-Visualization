@@ -52,7 +52,7 @@ Exploration of changes in global temperatures
 Dataset
 healthcare-2016.csv
 
-The analysis demonstrates techniques for:
+**The analysis demonstrates techniques for:**
 
 Data exploration
 Data cleaning
