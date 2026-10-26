@@ -84,7 +84,7 @@ Relationships between different variables
 
 # 😊 4. Emotion Detection
 
-The repository also contains an Emotion Detection project.
+**The repository also contains an Emotion Detection project.**
 
  Emotion_Detection.ipynb
 
