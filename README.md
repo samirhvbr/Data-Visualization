@@ -221,6 +221,7 @@ I am a Computer Science graduate with an interest in Artificial Intelligence, Ma
 2. Create a new branch.
 3. Make your changes.
 4. Test your modifications.
+5. Submit a pull request describing your improvements.
 
 ## 📜 License
 
