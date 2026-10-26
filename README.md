@@ -161,7 +161,7 @@ Geographical visualizations
 ---
 # 🎯 Learning Objectives
 
-Through these projects, I have developed practical experience in:
+**Through these projects, I have developed practical experience in:**
 
 Understanding real-world datasets
 Cleaning and preprocessing data
