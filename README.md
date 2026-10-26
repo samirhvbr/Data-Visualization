@@ -110,7 +110,7 @@ Comparative analysis
 ---
 # 🧹 Data Preprocessing
 
-Data preprocessing is an important part of the projects in this repository.
+**Data preprocessing is an important part of the projects in this repository.**
 
 The preprocessing work includes techniques such as:
 
