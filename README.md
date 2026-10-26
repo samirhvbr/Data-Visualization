@@ -78,7 +78,7 @@ Product and category performance
 Business trends
 Relationships between different variables
 
-Visualizations are used to make the results easier to understand and interpret.
+**Visualizations are used to make the results easier to understand and interpret.**
 
 ---
 
