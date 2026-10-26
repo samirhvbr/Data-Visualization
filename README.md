@@ -239,11 +239,10 @@ If you find any project useful or have suggestions for improvement, feel free to
 Thank you for visiting this repository!
 
 ---
-### ⭐ If you find this project interesting, consider starring the repository!
+## ⭐ If you find this project interesting, consider starring the repository!
 
-<div align="center">
-**Built with Microsoft Access | Developed by Shahid Azam**
+ | Developed by Shahid Azam
 
-*Learning, building, and improving through practical software projects.*
+Learning, building, and improving through practical software projects.
 
 </div>
