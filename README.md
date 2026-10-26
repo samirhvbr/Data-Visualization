@@ -126,7 +126,7 @@ Preparing datasets for visualization and machine learning
 ---
 # 🛠️ Technologies & Tools
 
-The projects primarily use Python and popular data science libraries.
+**The projects primarily use Python and popular data science libraries.**
 
 Programming Language
 Python
