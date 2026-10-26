@@ -194,9 +194,11 @@ I believe that working with different datasets is one of the best ways to develo
 
 I am a Computer Science graduate with an interest in Artificial Intelligence, Machine Learning, Python development, and practical software projects.
 
-This repository represents my work on a School Management System database project, demonstrating my interest in structured information management and database technologies.
-
 <br>
+
+<a href="https://github.com/shahidazam2020-oss">
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub">
+</a>
 
 ---
 # ⭐ Feedback
