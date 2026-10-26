@@ -212,7 +212,13 @@ I am a Computer Science graduate with an interest in Artificial Intelligence, Ma
 
 ---
 ## 🤝 Contributing
+
 **Suggestions and improvements are welcome.**
+
+**If you would like to contribute:**
+
+1. Fork this repository.
+
 ## 📜 License
 
 A license has not been specified for this project.
