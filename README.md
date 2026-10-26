@@ -42,7 +42,7 @@ Yearly average temperature
 Data visualization using charts and geographical visualizations
 Exploration of changes in global temperatures
 
-These projects provide practical experience in handling geographical and time-series data.
+**These projects provide practical experience in handling geographical and time-series data.**
 
 ---
 # ❤️ 2. Healthcare Data Analysis
