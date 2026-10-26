@@ -139,7 +139,7 @@ Plotly
 Scikit-learn
 Jupyter Notebook
 
-Additional libraries may be used depending on the requirements of individual projects.
+**Additional libraries may be used depending on the requirements of individual projects.**
 
 ---
 # 📊 Visualization Techniques
