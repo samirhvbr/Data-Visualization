@@ -88,7 +88,7 @@ The repository also contains an Emotion Detection project.
 
  Emotion_Detection.ipynb
 
-This project demonstrates the use of data analysis and machine learning techniques to work with emotion-related data.
+**This project demonstrates the use of data analysis and machine learning techniques to work with emotion-related data.**
 
 ---
 # ❤️‍🩹 5. Heart Attack Risk Prediction
