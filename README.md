@@ -121,7 +121,7 @@ Data transformation
 Feature preparation
 Preparing datasets for visualization and machine learning
 
-The purpose is to ensure that the data is suitable for reliable analysis and modeling.
+**The purpose is to ensure that the data is suitable for reliable analysis and modeling.**
 
 ---
 # 🛠️ Technologies & Tools
