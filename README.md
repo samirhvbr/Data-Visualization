@@ -144,7 +144,7 @@ Jupyter Notebook
 ---
 # 📊 Visualization Techniques
 
-Different visualization techniques are used throughout the repository, including:
+**Different visualization techniques are used throughout the repository, including:**
 
 Bar charts
 Line charts
