@@ -192,8 +192,11 @@ I believe that working with different datasets is one of the best ways to develo
 
 **Computer Science | Artificial Intelligence | Database Projects**
 
+I am a Computer Science graduate with an interest in Artificial Intelligence, Machine Learning, Python development, and practical software projects.
 
-This repository represents my practical work and learning in data science and related technologies.
+This repository represents my work on a School Management System database project, demonstrating my interest in structured information management and database technologies.
+
+<br>
 
 ---
 # ⭐ Feedback
