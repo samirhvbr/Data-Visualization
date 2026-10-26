@@ -68,7 +68,7 @@ Identifying patterns within healthcare data
 Dataset
 superstore.csv
 
-The project explores areas such as:
+**The project explores areas such as:**
 
 Sales
 Profit
