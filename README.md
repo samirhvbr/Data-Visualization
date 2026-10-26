@@ -203,6 +203,12 @@ I am a Computer Science graduate with an interest in Artificial Intelligence, Ma
 <a href="https://www.linkedin.com/in/shahid-azam-mughal-787b58235">
 <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
 </a>
+
+<a href="https://github.com/shahidazam2020-oss">
+<img src="https://img.shields.io/badge/Explore-My%20Repositories-238636?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories">
+</a>
+
+</div>
 ---
 # ⭐ Feedback
 
