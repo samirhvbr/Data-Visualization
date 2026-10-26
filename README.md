@@ -186,9 +186,12 @@ I believe that working with different datasets is one of the best ways to develo
 ---
 ## 👨‍💻 About the Developer
 
-## Shahid Azam
+<div align="center">
 
-## Python Programmer | Data Analysis & Visualization | Machine Learning
+# Shahid Azam
+
+**Computer Science | Artificial Intelligence | Database Projects**
+
 
 This repository represents my practical work and learning in data science and related technologies.
 
