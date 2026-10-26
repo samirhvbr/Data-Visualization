@@ -184,7 +184,7 @@ Data Analysis → Data Visualization → Data Preprocessing → Machine Learning
 I believe that working with different datasets is one of the best ways to develop practical data science skills, and this repository documents that learning journey.
 
 ---
-# 👨‍💻 Author
+## 👨‍💻 About the Developer
 
 ## Shahid Azam
 
