@@ -226,3 +226,6 @@ If you find any project useful or have suggestions for improvement, feel free to
 Thank you for visiting this repository!
 
 ---
+### ⭐ If you find this project interesting, consider starring the repository!
+
+<div align="center">
