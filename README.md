@@ -223,6 +223,7 @@ I am a Computer Science graduate with an interest in Artificial Intelligence, Ma
 4. Test your modifications.
 5. Submit a pull request describing your improvements.
 
+---
 ## 📜 License
 
 A license has not been specified for this project.
