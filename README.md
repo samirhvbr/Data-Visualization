@@ -156,7 +156,7 @@ Heatmaps
 Area charts
 Geographical visualizations
 
-These visualizations help transform complex datasets into information that is easier to understand.
+**These visualizations help transform complex datasets into information that is easier to understand.**
 
 ---
 # 🎯 Learning Objectives
