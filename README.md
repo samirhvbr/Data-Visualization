@@ -105,7 +105,7 @@ Machine learning
 Model evaluation
 Comparative analysis
 
-The project provides practical experience in applying a complete machine learning workflow to a healthcare-related dataset.
+**The project provides practical experience in applying a complete machine learning workflow to a healthcare-related dataset.**
 
 ---
 # 🧹 Data Preprocessing
