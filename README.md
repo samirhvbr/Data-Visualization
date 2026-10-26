@@ -63,7 +63,7 @@ Identifying patterns within healthcare data
 ---
 # 🛒 3. Superstore Sales Analysis
 
-The Superstore project analyzes sales-related data to understand business performance and discover useful patterns.
+**The Superstore project analyzes sales-related data to understand business performance and discover useful patterns.**
 
 Dataset
 superstore.csv
