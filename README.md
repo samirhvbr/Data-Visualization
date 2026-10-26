@@ -219,6 +219,7 @@ I am a Computer Science graduate with an interest in Artificial Intelligence, Ma
 
 1. Fork this repository.
 2. Create a new branch.
+3. Make your changes.
 
 ## 📜 License
 
